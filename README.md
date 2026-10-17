@@ -21,3 +21,17 @@ senang karena dapat mengenal teman-teman baru.
 Saya berharap kami dapat terus bekerja sama,
 saling membantu, dan menjaga kekompakan.
 
+
+## Harapan Kuliah
+
+Selama menjalani perkuliahan di Program Studi
+Teknik Komputer, saya berharap dapat memperoleh
+banyak pengetahuan dan pengalaman baru,
+khususnya dalam bidang teknologi dan pemrograman.
+
+Saya juga berharap dapat mengembangkan kemampuan
+berpikir kritis, meningkatkan keterampilan,
+serta membangun hubungan yang baik dengan
+teman-teman dan dosen selama perkuliahan.
+
+
